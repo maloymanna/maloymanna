@@ -1,7 +1,8 @@
+## Hi 👋
 <!--
 **maloymanna/maloymanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Hi, I'm Maloy Manna 👋  
+I'm Maloy. 
   
 For over 20 years, I’ve worked in application development, data warehousing, BI / analytics, big data as well as project and product management across [TCS](https://www.tcs.com), [Infosys](https://www.infosys.com), [Saama](https://www.saama.com/), [Thomson Reuters](https://www.lseg.com/en/data-analytics) and [AXA](https://www.axa.com). 
   
