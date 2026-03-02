@@ -15,3 +15,8 @@ I'm excited by data, tech and AI and use Github for my tech learning journey.
 - [AI is all you need](https://maloymanna.fr.eu.org/2025/01/19/ai-is-all-you-need)
 - [The Data Mesh Approach](https://maloymanna.fr.eu.org/2024/06/28/the-data-mesh-approach)
 - [Delta Lake and the Lakehouse Architecture](https://maloymanna.fr.eu.org/2024/05/19/delta-lake-and-the-lakehouse-architecture)
+
+## Latest posts
+<!-- BLOGPOST-LIST:START -->
+
+<!-- BLOGPOST-LIST:END -->
