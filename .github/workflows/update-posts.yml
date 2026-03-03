@@ -1,0 +1,27 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write  # write permissions required for git push
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: maloymanna/action-blogpost-update@v1 
+        with:
+          feed_url: "https://maloymanna.github.io/index.xml"
+          max_posts: "10"
+
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update latest blog posts"
+          git push
