@@ -17,7 +17,7 @@ jobs:
       - uses: maloymanna/actions-blogpost-update@v1 
         with:
           feed_url: "https://maloymanna.github.io/index.xml"
-          max_posts: "10"
+          max_posts: "5"
 
       - run: |
           git config user.name "github-actions[bot]"
