@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: maloymanna/action-blogpost-update@v1 
+      - uses: maloymanna/actions-blogpost-update@v1 
         with:
           feed_url: "https://maloymanna.github.io/index.xml"
           max_posts: "10"
