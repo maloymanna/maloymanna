@@ -18,5 +18,14 @@ I'm excited by data, tech and AI and use Github for my tech learning journey.
 
 ## Latest posts
 <!-- BLOGPOST-LIST:START -->
-
+- [AgentOps - The future of software?](https://maloymanna.github.io/2026/02/17/agentops-the-future-of-software/)
+- [Automate KeePass sync on Linux to Google Drive and OneDrive](https://maloymanna.github.io/2025/10/22/automate-keepass-sync-on-linux-to-google-drive-and-onedrive/)
+- [Agentic AI: from chat to action](https://maloymanna.github.io/2025/04/07/agentic-ai-from-chat-to-action/)
+- [Rise of the Chinese AI dragons](https://maloymanna.github.io/2025/02/15/rise-of-the-chinese-ai-dragons/)
+- [AI is all you need](https://maloymanna.github.io/2025/01/19/ai-is-all-you-need/)
+- [Chinese quick-commerce wows with data-driven Lean Agile](https://maloymanna.github.io/pm/chinese-quick-commerce-wows-with-data-driven-lean-agile/)
+- [The Data Mesh Approach](https://maloymanna.github.io/2024/06/28/the-data-mesh-approach/)
+- [Delta Lake and the Lakehouse Architecture](https://maloymanna.github.io/2024/05/19/delta-lake-and-the-lakehouse-architecture/)
+- [Identity Basics 2 - Permissions, Scopes and Consent](https://maloymanna.github.io/2023/04/09/identity-basics-2-permissions-scopes-consent/)
+- [Identity Basics 1 - Application Registrations](https://maloymanna.github.io/2023/03/18/identity-basics-1-app-registrations/)
 <!-- BLOGPOST-LIST:END -->
